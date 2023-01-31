@@ -21,3 +21,5 @@ print(type(x))
 name1 = 'ali'
 print(type(name1))
 name2 = "reza"
+
+# exercise 1 : جمع دو عدد و پرینت آن ها
