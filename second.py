@@ -23,3 +23,8 @@ print(type(name1))
 name2 = "reza"
 
 # exercise 1 : جمع دو عدد و پرینت آن ها
+
+x = 1
+y = 2
+z = x + y
+print('sum of two numbers is :', z)
