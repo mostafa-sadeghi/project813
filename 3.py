@@ -46,13 +46,13 @@
 # print(type(string))
 
 
-name = "nikan"
+# name = "nikan"
 
-print(name[0])
-print(name[1])
-print(name[2])
-print(name[3])
-print(name[4])
+# print(name[0])
+# print(name[1])
+# print(name[2])
+# print(name[3])
+# print(name[4])
 # print(name[5]) # خطا
 
 # Exercise 2 : برنامه ای بنویسید که نام کاربر را از ورودی دریافت نماید و کاراکترهای انرا از انتها به ابتدا نمایش دهد
