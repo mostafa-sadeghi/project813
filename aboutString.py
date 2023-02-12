@@ -1,7 +1,7 @@
-# message = "he said \"not do that\""
-# print(message)
-# message = 'he said "not do that"'
-# print(message)
+message = "he said \"not do that\""
+print(message)
+message = 'he said "not do that"'
+print(message)
 
 # message = 'he said "don\'nt do that"'
 # print(message)

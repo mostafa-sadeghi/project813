@@ -26,7 +26,10 @@
 # در نهایت نام و نام خانوادگی را با فاصله در یک خط نمایش دهد.
 # name :نام
 # family :نام خانوادگی
+# name = input('enter your name: ')
+# family = input('enter your family: ')
 
+# print(name, family)
 
 # float number عدد اعشاری
 
@@ -56,3 +59,7 @@
 # print(name[5]) # خطا
 
 # Exercise 2 : برنامه ای بنویسید که نام کاربر را از ورودی دریافت نماید و کاراکترهای انرا از انتها به ابتدا نمایش دهد
+# name = input('enter your name: ')
+
+# print(name[2], name[1], name[0])
+# print(name[-1], name[1], name[0])
