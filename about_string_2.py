@@ -7,5 +7,5 @@
 # s2 = '6789'
 # print(s1 + s2)
 
-star = '*' * 10
-print(star)
+# star = '*' * 10
+# print(star)
