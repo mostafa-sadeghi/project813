@@ -38,26 +38,20 @@
 
 even_numbers = []
 odd_numbers = []
-
 n1 = int(input('enter a number:> '))
 n2 = int(input('enter a number:> '))
 n3 = int(input('enter a number:> '))
-
 if n1 % 2 == 0:
     even_numbers.append(n1)
 else:
     odd_numbers.append(n1)
-
 if n2 % 2 == 0:
     even_numbers.append(n2)
 else:
     odd_numbers.append(n2)
-
 if n3 % 2 == 0:
     even_numbers.append(n3)
 else:
     odd_numbers.append(n3)
-
-
 print("sum of even numbers are: ", sum(even_numbers))
 print("sum of odd numbers are: ", sum(odd_numbers))
