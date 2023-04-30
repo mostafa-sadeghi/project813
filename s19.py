@@ -21,11 +21,11 @@
 #     clock.tick(50)
 
 
-for i in range(5):
-    name = input('enter a name: ')
-    if name == 'amin' or name == "reza":
-        print("ok")
-    elif name == "sara":
-        print("sara")
-    else:
-        print("other")
+# for i in range(5):
+#     name = input('enter a name: ')
+#     if name == 'amin' or name == "reza":
+#         print("ok")
+#     elif name == "sara":
+#         print("sara")
+#     else:
+#         print("other")
